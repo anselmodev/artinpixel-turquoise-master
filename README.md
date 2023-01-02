@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/icon.jpg" alt="Data encryption and decryption tool" title="Data encryption and decryption tool" width="200" />
+  <img src="https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/icon.jpg" alt="Data encryption and decryption tool" title="Data encryption and decryption tool" width="150" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Artinpixel Turquoise Theme
