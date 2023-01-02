@@ -3,9 +3,32 @@
   "displayName": "Artinpixel Turquoise Theme",
   "description": "A light and simple theme with vibrant colors of turquoise shades",
   "version": "0.0.1",
+  "publisher": "anselmodev",
+  "author": {
+    "name": "Anselmo Lima",
+    "email": "anselmo.dev@gmail.com"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/anselmodev/artinpixel-turquoise-master"
+	},
+	"bugs": {
+		"url": "https://github.com/anselmodev/artinpixel-turquoise-master/issues"
+	},
+  "icon": "img/icon.png",
+  "keywords": [
+		"Turquoise",
+    "blue",
+		"arctic",
+    "north",
+    "bluish",
+    "clean",
+    "elegant"
+	],
   "categories": [
     "Themes"
   ],
