@@ -1,0 +1,21 @@
+{
+  "name": "artinpixel-turquoise-master",
+  "displayName": "Artinpixel Turquoise Theme",
+  "description": "A light and simple theme with vibrant colors of turquoise shades",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Artinpixel Turquoise Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/artinpixel-turquoise-theme-color-theme.json"
+      }
+    ]
+  }
+}
