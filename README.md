@@ -7,8 +7,8 @@
 
 Examples:
 
-![](img/artinpixel-turquoise-master-img1.jpeg)
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img1.jpeg)
 
-![](img/artinpixel-turquoise-master-img2.jpeg)
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img2.jpeg)
 
-![](img/artinpixel-turquoise-master-img3.jpeg)
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img3.jpeg)
