@@ -5,7 +5,15 @@
 <h1 align="center">Artinpixel Turquoise Theme
 </h1>
 
-Examples:
+Darkness:
+
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img4.jpeg)
+
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img5.jpeg)
+
+![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img6.jpeg)
+
+Default:
 
 ![](https://raw.githubusercontent.com/anselmodev/artinpixel-turquoise-master/master/img/artinpixel-turquoise-master-img1.jpeg)
 
