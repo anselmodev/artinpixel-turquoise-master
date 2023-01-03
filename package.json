@@ -38,6 +38,11 @@
         "label": "Artinpixel Turquoise Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/artinpixel-turquoise-color-theme.json"
+      },
+      {
+        "label": "Artinpixel Turquoise Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/artinpixel-turquoise-dark-color-theme.json"
       }
     ]
   }
